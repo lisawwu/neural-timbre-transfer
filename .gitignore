@@ -1,0 +1,15 @@
+# data & datasets
+data/
+datasets/
+*.npz
+
+# models/checkpoints
+models/
+*.pt
+*.h5
+*.onnx
+
+# Python cache & OS junk
+__pycache__/
+*.pyc
+.DS_Store
