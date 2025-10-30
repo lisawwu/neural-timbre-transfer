@@ -4,7 +4,7 @@ Hi guys, this is the prototype version I made to see if this concept and algorit
 ## Project Structure
 - `dummyCode/` — DUMMY MODEL: its gonna chopped. contains model training and live audio code
 - `datasets/` — contains input/output audio pairs (ignored in Git because the files are too big lol)
-- `models/` — stores trained weights (ignored in Git, ignored again)
+- `models/` — stores trained weights (ignored in Git again)
 - `libraryTest.py` — used for validating libraries. i made this because my things got installed wrong and i had to fix it haha
 
 ## Run Training
