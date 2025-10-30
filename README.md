@@ -1,5 +1,5 @@
-# Neural Timbre Transfer 
-This project uses a neural network (MLP) to transform the timbre of one instrument into another — for example, converting a guitar tone into a piano tone in real-time.
+# Neural Timbre Transfer (Version 1, dummy model)
+Hi guys, this is the prototype version I made to see if this concept and algorithm will work. This project uses a neural network (MLP) to transform the timbre of one instrument into another — for example, converting a guitar tone into a piano tone in real-time.
 
 ## Project Structure
 - `dummyCode/` — DUMMY MODEL: its gonna chopped. contains model training and live audio code
