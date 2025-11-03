@@ -66,4 +66,4 @@ if __name__ == "__main__":
 
     np.savez_compressed(OUT / "pairs_train.npz", X=Xtr, Y=Ytr, sr=sr_x)
     np.savez_compressed(OUT / "pairs_val.npz",   X=Xva, Y=Yva, sr=sr_x)
-    print("Wrote datasets.")
+    print("✅ Wrote datasets, process complete")

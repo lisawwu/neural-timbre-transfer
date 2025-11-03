@@ -1,4 +1,6 @@
 import importlib, sys
+import sounddevice as sd
+print(sd.query_devices())
 
 modules = [
     "sounddevice",
